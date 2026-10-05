@@ -8,13 +8,15 @@ Website: https://xiaolong-econ.github.io/
 
 Edit a file on GitHub and commit the change to `main`:
 
-- `index.html`: biography, affiliation, and contact information.
+- `index.html`: biography, affiliation, portrait, and contact information.
 - `research.html`: publications, working papers, and work in progress.
 - `teaching.html`: courses, evaluations, and awards.
 - `cv.html`: education and link to the full CV.
 - `style.css`: layout, colors, and typography.
+- `photo.jpeg`: professional portrait.
+- `CV.pdf`: full CV; replace this file to update the downloadable CV.
 
-The CV and course evaluations link to the existing Google Drive documents. Site content was migrated from https://sites.google.com/view/xiaolong-hou/home.
+The CV and portrait are hosted directly in this repository. Course evaluations link to the existing Google Drive documents. Site content was migrated from https://sites.google.com/view/xiaolong-hou/home.
 
 ## Publish
 
