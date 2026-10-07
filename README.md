@@ -1,4 +1,4 @@
-# Xiaolong Hou — Academic website
+# Xiaolong (Chris) Hou — Academic website
 
 A simple academic website inspired by al-folio’s restrained typography and spacing. Built with plain HTML and CSS, with no installation or build step required.
 
