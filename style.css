@@ -14,5 +14,14 @@
 .research-page>section{margin-top:3.25rem;padding-top:1.5rem;border-top:1px solid var(--line)}
 .research-page>section>h2{margin:0 0 1.5rem;padding:.75rem 1rem;background:#f2f6f9;color:var(--context)}
 .research-page .paper:last-child{margin-bottom:0}
+.research-page .publication-group{margin-top:1.5rem}
+.research-page .publication-group+.publication-group{margin-top:2rem;padding-top:1.5rem;border-top:1px solid var(--line)}
+.publication-group-heading{display:flex;align-items:baseline;flex-wrap:wrap;gap:.25rem 1rem;margin-bottom:1.1rem}
+.publication-group-heading>.group-label{margin:0;font-size:.95rem;font-weight:600}
+.publication-group .paper h4{font-size:1.025rem}
+.paper-authors strong{font-weight:600;color:var(--ink)}
+.author-with-role{display:inline-block}
+.authorship-key{margin:0;font-size:.825rem;line-height:1.6;color:var(--muted)}
+.authorship-marker{margin-left:.1em;font-size:.75em;line-height:0;color:var(--context)}
 @media(max-width:600px){.research-page>section{margin-top:2.5rem;padding-top:1.25rem}.research-page>section>h2{padding:.7rem .9rem}}
 @media print{.research-page>section>h2{background:none;padding:0;color:inherit}}
