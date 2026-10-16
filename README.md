@@ -12,6 +12,7 @@ Edit a file on GitHub and commit the change to `main`:
 - `research.html`: publications, working papers, and work in progress.
 - `teaching.html`: courses, evaluations, and awards.
 - `cv.html`: education and link to the full CV.
+- `highlights.html`: findings and visual summaries from ongoing projects. Currently a "Coming soon" page; add material when supplied by Xiaolong Hou.
 - `style.css`: layout, colors, and typography.
 - `photo.jpeg`: professional portrait.
 - `CV.pdf`: full CV; replace this file to update the downloadable CV.
